@@ -29,3 +29,5 @@ volumes:
   
  http://ip-addr:8080
  login as root password is 1234password and server mysqlsrv and database testdb
+ Originally from 
+ https://imasters.com.br/banco-de-dados/mysql-adminer-docker-compose-montando-rapidamente-um-ambiente-para-uso
